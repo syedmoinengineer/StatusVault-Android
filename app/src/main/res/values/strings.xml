@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatusVault</string>
+    <string name="toolbar_subtitle">Save WhatsApp Statuses</string>
+
+    <!-- Navigation -->
+    <string name="nav_images">Images</string>
+    <string name="nav_videos">Videos</string>
+    <string name="nav_saved">Saved</string>
+
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="saved">Saved ✓</string>
+    <string name="share">Share</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_source">Change WhatsApp Source</string>
+    <string name="grant_access">Grant Folder Access</string>
+    <string name="grant_access_business">Grant Folder Access</string>
+    <string name="already_granted">Already granted? Tap here</string>
+
+    <!-- Permission Screen -->
+    <string name="permission_screen_subtitle">Grant one-time folder access to view\nand save WhatsApp statuses</string>
+    <string name="whatsapp_label">WhatsApp</string>
+    <string name="whatsapp_business_label">WhatsApp Business</string>
+    <string name="whatsapp_grant_desc">Grant access to the .Statuses folder to start browsing statuses.</string>
+
+    <!-- Empty States -->
+    <string name="no_images_yet">No Image Statuses</string>
+    <string name="no_videos_yet">No Video Statuses</string>
+    <string name="no_saved_yet">Nothing Saved Yet</string>
+    <string name="empty_subtitle">Open WhatsApp and view some statuses first,\nthen pull down to refresh.</string>
+    <string name="no_saved_subtitle">Save statuses from the Images or Videos tab\nand they\'ll appear here.</string>
+
+    <!-- Messages -->
+    <string name="saved_to">Saved to %1$s</string>
+    <string name="save_failed">Save failed. Try again.</string>
+    <string name="share_via">Share via</string>
+    <string name="share_failed">Could not share. Try again.</string>
+    <string name="permission_denied">Folder access denied. Please try again.</string>
+    <string name="permission_revoked">Folder access was revoked. Please re-grant.</string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="file_saved_success">File saved successfully!</string>
+</resources>
