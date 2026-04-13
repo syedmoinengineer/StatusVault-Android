@@ -21,8 +21,11 @@ A production-ready WhatsApp Status Saver built using MVVM architecture and moder
 ---
 
 ## 📸 Screenshots
-![App](screenshots/1.png)
-![App](screenshots/2.png)
+![App](screenshots/1.jpg)
+![App](screenshots/2.jpg)
+![App](screenshots/3.jpg)
+![App](screenshots/4.jpg)
+![App](screenshots/5.jpg)
 
 ---
 
