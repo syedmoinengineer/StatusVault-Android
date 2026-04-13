@@ -1,22 +1,23 @@
-🚀 StatusVault — WhatsApp Status Saver (Android/Kotlin)
+# 🚀 StatusVault — Modern WhatsApp Status Saver (Android/Kotlin)
 
-A production-ready WhatsApp Status Saver built using MVVM architecture and modern Android APIs.
+A production-ready Android app built using clean architecture and modern storage APIs.
 
 ---
 
-✨ Highlights
+## ✨ Highlights
 - MVVM + Repository architecture
 - MediaStore API (Scoped Storage compliant)
 - Supports Android 7 → Android 15
 - Clean Material UI (Light/Dark)
 - Fast media scanning & saving
+- No unnecessary permissions
 
 ---
 
-🧠 Architecture
+## 🧠 Architecture
 - ViewModel + LiveData
 - Repository Pattern
-- Modular structure
+- Modular code structure
 
 ---
 
@@ -29,14 +30,15 @@ A production-ready WhatsApp Status Saver built using MVVM architecture and moder
 
 ---
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 - Kotlin
 - Android SDK
 - MediaStore API
+- RecyclerView
 
 ---
 
-📚 For Developers
+## 📚 For Developers
 This project serves as a reference for:
 - Scoped Storage (MediaStore)
 - MVVM architecture in real-world apps
@@ -44,5 +46,13 @@ This project serves as a reference for:
 
 ---
 
-👨‍💻 Maintainer
-Moinuddin
+## 🔥 Why this project matters
+Unlike typical status saver apps, this project focuses on:
+- Clean architecture implementation
+- Modern Android storage handling
+- Real-world utility use case
+
+---
+
+## 👨‍💻 Maintainer
+syedmoinengineer
